@@ -1,0 +1,41 @@
+button{
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+}
+button:hover{
+    cursor: pointer;
+}
+.wrapper{
+    background-color:#000000;
+    border-radius: 1em;
+    padding: 1em;
+    
+}
+.orange{
+    background-color:#FF9500;
+    color: #FFFFFF;
+}
+.grey{
+    background-color:#505050 ;
+    color: #FFFFFF;
+}
+graySpace {
+    background-color: #505050;
+    color: white;
+    padding: 0em 4em 0em 1em;
+}
+#zero{
+    width: 6.4em;
+    height: 2.85em;
+}
+.result{
+    color:#FFFFFF;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1em;
+    font-size: 3.5em;
+}
